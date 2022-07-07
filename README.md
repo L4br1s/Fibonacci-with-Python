@@ -1,2 +1,5 @@
 # Fibonacci-with-Python
-Just a little code made for calculate the Fibonacci sequence
+> Finished
+
+<p> Just a code made for calculate the Fibonnaci sentence.
+</p>
